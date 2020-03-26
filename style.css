@@ -6,9 +6,9 @@ body {
 
 .container {
     background: #36454f;
-    width: 50%;
     padding: 2%;
     font-size: 19px;
+    max-width: 750px;
 }
 
 p {
