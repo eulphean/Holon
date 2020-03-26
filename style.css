@@ -1,0 +1,70 @@
+body {
+ background: #36454f;
+ display: flex; 
+ justify-content: center;
+}
+
+.container {
+    background: #36454f;
+    width: 50%;
+    padding: 2%;
+    font-size: 19px;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+h1 {
+    font-weight: normal; 
+}
+h1, h3 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+/* Images */
+.title {
+    height: 130px;
+    width: 100%;
+}
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.holarchy {
+    width: 100%;
+}
+
+.janus {
+    width: 53%;
+}
+
+.computation {
+    width: 100%; 
+    height: 150px;
+}
+
+.wrapImg {
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+}
+
+figcaption {
+    color: white; 
+    text-align: center;
+    font-size: 15px;
+}
+
+iframe {
+    width: 100%; 
+    height: 500px; 
+}
